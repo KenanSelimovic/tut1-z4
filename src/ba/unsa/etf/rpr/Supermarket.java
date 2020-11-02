@@ -11,6 +11,9 @@ public class Supermarket {
         }
         return false;
     }
+    public int dajBr(){
+        return br;
+    }
     public Artikl[] getArtikli() {
         return artikli;
     }
