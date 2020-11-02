@@ -11,6 +11,8 @@ public class Korpa {
         }
         return false;
     }
+    public int dajBr(){
+        return br;}
     public Artikl[] getArtikli(){
         return artikli;
     }
